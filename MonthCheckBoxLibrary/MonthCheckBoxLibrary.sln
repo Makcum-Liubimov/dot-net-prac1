@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthCheckBoxLibrary", "MonthCheckBoxLibrary\MonthCheckBoxLibrary.csproj", "{3ECD8EE4-5330-4102-8E54-8970030F3C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthCheckBoxApp", "MonthCheckBoxApp\MonthCheckBoxApp.csproj", "{30849707-ACF8-4CBB-9645-8EE8A6476F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECD8EE4-5330-4102-8E54-8970030F3C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD8EE4-5330-4102-8E54-8970030F3C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD8EE4-5330-4102-8E54-8970030F3C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD8EE4-5330-4102-8E54-8970030F3C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30849707-ACF8-4CBB-9645-8EE8A6476F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30849707-ACF8-4CBB-9645-8EE8A6476F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30849707-ACF8-4CBB-9645-8EE8A6476F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30849707-ACF8-4CBB-9645-8EE8A6476F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C52D70-78E4-4FCE-855B-42D96D2C186E}
+	EndGlobalSection
+EndGlobal
